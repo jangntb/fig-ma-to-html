@@ -587,19 +587,19 @@ a {
 .footer .column .title {
   display: inline-block;
   padding-bottom: 14px;
+  padding-right: 48px;
   color: #fff;
   font-size: 1.6rem;
   font-weight: 600;
   line-height: 1.75; /* 175% */
   border-bottom: 1px solid #59554b;
-  width: 130px;
 }
 .footer .list {
   margin-top: 28px;
 }
 .footer .column a {
   display: inline-block;
-  padding-bottom: 12px;
+  margin-bottom: 12px;
   color: #bfbcb2;
   font-size: 1.4rem;
   line-height: 1.86; /* 185.714% */
